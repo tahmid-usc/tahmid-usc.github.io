@@ -1,0 +1,8 @@
+name: "TI"
+navbar:
+  title: "TI_bar"
+  left:
+  - text: "Home"
+    href: index.html
+  - text: "teaching"
+    href: teaching.md  
