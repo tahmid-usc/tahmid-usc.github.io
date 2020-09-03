@@ -1,2 +1,2 @@
-# tahmid-usc.github.io
-Tahmidul Islam's personal webpage
+# Tahmidul Islam
+## Ph.D Candidate, Department of Statistics, University of South Carolina
