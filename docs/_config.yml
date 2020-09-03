@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://linkedin.com/in/tahmidul">View My LinkedIn Profile</a> 
   <br><br>
-  <a href="tahmid-usc.github.io/teaching">Teaching</a>
+  <h3><a href="tahmid-usc.github.io/teaching">Teaching</a></h3>
   <br><br>
   
 theme: jekyll-theme-minimal
