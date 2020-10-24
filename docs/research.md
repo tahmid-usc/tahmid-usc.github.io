@@ -3,9 +3,9 @@
 ## Bayesian Framework for Analyzing Sparse Functional Data
 
 Functional data assumes that the unit of analysis in function, typically curves or surfaces. In sparse functional data setting, curves are observed on different points and even different number of points for each subject. We have developed a Bayesian framework for analyzing such a data leveraging the power of Gaussian process. We have applied our model in different settings such as bone mineral density dataset (longitudinal study) and temporal gene expression data.
-![alt text](images/rbf.pdf)
-![alt text](rbf_g1.pdf)
-![alt text](rbf_nong1.pdf)
+
+![BMD](images/rbf.pdf)
+
 
 ## COVID-19 cases and deaths projection using Gaussian process regression with Richard’s curve prior
 
