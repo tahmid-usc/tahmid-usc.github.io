@@ -8,4 +8,4 @@ I am passionate about Statistics. I love analyzing data, finding patterns, makin
 
 Functional data, Gaussian process, machine learning, longitudinal data.
 
-###  [Curriculum Vitae](cv.pdf)
+###  [Curriculum Vitae](Tahmidul Islam CV_Oct20.pdf)
