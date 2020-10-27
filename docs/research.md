@@ -21,4 +21,4 @@ We have used state space exponential smoothing model ('forecast' package in R) t
 ## Breast cancer prediction from the FNA image
 I have applied L1-regularized logistic regression model to predict breast cancer from the digitized image of fine needle aspirate (FNA) of breast mass.
 
-![FNA](images/Pancreas_FNA.png)
+![FNA](images/Pancreas_FNA.jpg)
