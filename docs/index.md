@@ -1,6 +1,6 @@
-## Background
+## Tahmidul Islam
 
-I am Tahmidul Islam, currently Ph.D candidate in the Department of Statistics, University of South Carolina.
+Ph.D candidate, Department of Statistics, University of South Carolina.
 
 ### Research Interests
 
