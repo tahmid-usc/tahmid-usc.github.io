@@ -1,7 +1,11 @@
-## Tahmidul Islam
+---
+title: homepage
+---
 
-Ph.D candidate, Department of Statistics, University of South Carolina.
+I am passionate about Statistics. I love analyzing data, finding patterns, making prediction and teaching about all these amazing ideas.
 
 ### Research Interests
 
 Functional data, Gaussian process, machine learning, longitudinal data.
+
+###  [Curriculum Vitae](cv.pdf)
