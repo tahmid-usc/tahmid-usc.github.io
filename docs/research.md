@@ -3,9 +3,7 @@
 ## Bayesian Framework for Analyzing Sparse Functional Data
 
 Functional data assumes that the unit of analysis in function, typically curves or surfaces. In sparse functional data setting, curves are observed on different points and even different number of points for each subject. We have developed a Bayesian framework for analyzing such a data leveraging the power of Gaussian process. We have applied our model in different settings such as bone mineral density dataset (longitudinal study) and temporal gene expression data.
-
-![BMD](images/rbf.png)
-
+![BMD](images/bone.png)
 ![G1](images/g1.png)
 ![G2](images/g2.png)
 
@@ -23,4 +21,4 @@ We have used state space exponential smoothing model ('forecast' package in R) t
 ## Breast cancer prediction from the FNA image
 I have applied L1-regularized logistic regression model to predict breast cancer from the digitized image of fine needle aspirate (FNA) of breast mass.
 
-![FNA](images/Pancreas_FNA.jpg.png)
+![FNA](images/Pancreas_FNA.png)
