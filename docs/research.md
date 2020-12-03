@@ -7,6 +7,12 @@ Functional data assumes that the unit of analysis in function, typically curves 
 ![G1](images/g1.png)
 ![G2](images/g2.png)
 
+## Transfer learning for flower image classification
+
+This project demonstrates the ability of transfer learning when the number of training instances is low. The Visual Geometry Group of Department of Engineering Science, University of Oxford created this data with 102 flower categories. The flowers chosen to be flower commonly occuring in the United Kingdom. Each class consists of between 40 and 258 images. Pre-trained Resnet 34 is applied on this flower image classification task.
+
+[Google Colab Notebook](tahmid-usc.github.io/flower_clean)
+
 ## COVID-19 cases and deaths projection using Gaussian process regression with Richard’s curve prior
 
 This is a small project to display the power of Gaussian process regression and incorportation of prior mean function. Details can be found here: https://tahmid-usc.github.io/covidGP
