@@ -6,4 +6,4 @@ Functional data, Gaussian process, Machine learning, Longitudinal data, Bayesian
 
 ###  [Curriculum Vitae](CV.pdf)
 
-
+![photo](images/sobi.png)
