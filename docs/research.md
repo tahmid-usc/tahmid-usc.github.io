@@ -13,6 +13,15 @@ This project demonstrates the ability of transfer learning when the number of tr
 
 [Google Colab Notebook](tahmid-usc.github.io/flower_clean)
 
+![Flower](images/dl.png)
+
+## Spatial analysis of COVID-19 infection in UK
+
+
+In this project with Fahim Ahmed (USC), we analyzed the spread of the COVID-19 in UK from spatial analysis perspective. The objective was to find COVID hotspots and further investigate the hypothesized existence of racial and ethnic disparity in the infected areas. We utilized geographically weighted regression (GWR) model for this analysis. 
+
+![Spatial](images/spatial.png)
+
 ## COVID-19 cases and deaths projection using Gaussian process regression with Richard’s curve prior
 
 This is a small project to display the power of Gaussian process regression and incorportation of prior mean function. Details can be found here: https://tahmid-usc.github.io/covidGP
