@@ -27,6 +27,7 @@ In this project with Fahim Ahmed (USC), we analyzed the spread of the COVID-19 i
 This is a small project to display the power of Gaussian process regression and incorportation of prior mean function. Details can be found here: https://tahmid-usc.github.io/covidGP
 
 ![covid](images/unnamed-chunk-2-1.png)
+
 ## Forecast electricity power load in Texas with TBATS model
 
 We have used state space exponential smoothing model ('forecast' package in R) to forecast the power load in Texas. We have found that the statistical model performs better than LSTM deep learning model for this particular case.
